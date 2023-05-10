@@ -1,0 +1,11 @@
+{
+  "name": "amazon-scaprer-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.0.3",
+    "puppeteer-core": "^20.1.2"
+  }
+}
